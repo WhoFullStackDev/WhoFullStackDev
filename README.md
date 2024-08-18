@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Kingsuk! 👋<br><br>I'm a self-taught full-stack developer with a passion for building dynamic and responsive web applications. Currently, I'm expanding my skills by learning Java, and I have experience working with a variety of modern web technologies.
+Hi, I'm Kingsuk! 👋<br><br>I'm a self-taught full-stack developer with a passion for building dynamic and responsive web applications.
 
 
 ## 🌐 Socials:
