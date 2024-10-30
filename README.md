@@ -18,9 +18,6 @@ Hi, I'm Kingsuk! 👋<br><br>I'm a self-taught full-stack developer with a passi
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=WhoFullStackDev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=WhoFullStackDev&icon=0&color=0)](https://visitcount.itsvg.in)
 
